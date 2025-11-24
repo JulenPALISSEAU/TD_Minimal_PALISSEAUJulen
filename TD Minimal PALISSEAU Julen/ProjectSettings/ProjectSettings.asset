@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e5a3f676763c339428f281b9698aa22c
+  productGUID: 17247c345170eea448d68d31288321ee
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TD Minimal PALISSEAU Julen
+  productName: Devoir Unity 1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -602,14 +602,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TD Minimal PALISSEAU Julen
+  metroPackageName: Devoir Unity 1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TD Minimal PALISSEAU Julen
+  metroApplicationDescription: Devoir Unity 1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -680,10 +680,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 475171e7-b1a6-44e4-8f4e-f04a633285d9
+  cloudProjectId: cf13f255-590f-4152-b186-ef0f00815569
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TD Minimal PALISSEAU Julen
+  projectName: Devoir Unity 1 2025-11-17_13-05-08
   organizationId: palisseau_julen
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
